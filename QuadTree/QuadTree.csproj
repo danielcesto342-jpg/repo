@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+  <TargetFramework>net9.0</TargetFramework>
+  <Platforms>AnyCPU;x86</Platforms>
+  <Configurations>Debug;Release;Debug AB;Release AB;Release AB</Configurations>
+</PropertyGroup>
+
+<ItemGroup>
+  <PackageReference Include="Dropbox.Api" Version="7.0.0" />
+</ItemGroup>
+
+</Project>

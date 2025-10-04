@@ -1,0 +1,12 @@
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\bin\Debug\net9.0\QuadTree.deps.json
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\bin\Debug\net9.0\QuadTree.dll
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\bin\Debug\net9.0\QuadTree.pdb
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.csproj.AssemblyReference.cache
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.AssemblyInfoInputs.cache
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.AssemblyInfo.cs
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.csproj.CoreCompileInputs.cache
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.dll
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\refint\QuadTree.dll
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\QuadTree.pdb
+C:\Games\League S1\brokenwings-serobot-master\QuadTree\obj\Debug\net9.0\ref\QuadTree.dll
